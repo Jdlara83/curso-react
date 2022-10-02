@@ -1,4 +1,4 @@
-import './App.css';
+import './styles/App.css';
 import Testimonio from './components/Testimonio';
 
 function App() {
